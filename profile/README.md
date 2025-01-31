@@ -1,11 +1,13 @@
 ## Hi there 👋
 
-
 Here is a description of the graph project.
 
-https://github.com/ProgramIsFun/ue5-force-graph  Will serve as the issue repulsory?  Which means the code there is not used, but the issue will be posted there.
 
-https://github.com/ProgramIsFun/ue5-force-graph53 Will be used as the main repulsory?
+
+https://github.com/ProgramIsFun/ue5-force-graph will serve as the issue repo.  Which means the code there is not used, but the issue will be posted there.
+
+https://github.com/ProgramIsFun/ue5-force-graph53 Will be used as the main repo.
+
 
 The back end database will be at https://github.com/ProgramIsFun/neo4j-movies-template-Backup 
 
