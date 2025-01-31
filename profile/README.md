@@ -2,7 +2,7 @@
 
 Here is a description of the graph project.
 
-1.unreal Engine front end
+1. unreal Engine front end
 
 https://github.com/ProgramIsFun/ue5-force-graph will serve as the issue repo.  Which means the code there is not used, but the issue will be posted there.
 
