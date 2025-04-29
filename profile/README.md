@@ -6,7 +6,7 @@ list of project
 
 2. flight
 
-   back : https://github.com/ProgramIsFun/fligh1Front2
+   back : https://github.com/ProgramIsFun/fligh1back
    front : https://github.com/ProgramIsFun/fligh1Front
    sup: https://github.com/ProgramIsFun/fligh1
 
