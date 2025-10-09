@@ -2,7 +2,7 @@
 
 list of project
 
-1. https://github.com/ProgramIsFun/graphproject
+1. https://github.com/ProgramIsFun/EonGraph
 
 2. flight
 
