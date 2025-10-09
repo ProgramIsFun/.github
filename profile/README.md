@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-list of project
 
-1. https://github.com/ProgramIsFun/EonGraph
+Here's a list of projects I am currently maintaining:
 
-2. flight
+- [EonGraph](https://github.com/ProgramIsFun/EonGraph)
 
-   back : https://github.com/ProgramIsFun/fligh1back
-   front : https://github.com/ProgramIsFun/fligh1Front
-   sup: https://github.com/ProgramIsFun/fligh1
+- Flight Project
+  - [Backend](https://github.com/ProgramIsFun/fligh1back)
+  - [Frontend](https://github.com/ProgramIsFun/fligh1Front)
+  - [Supplementary](https://github.com/ProgramIsFun/fligh1)
 
-3. https://github.com/ProgramIsFun/EonTrading
+- [EonTrading](https://github.com/ProgramIsFun/EonTrading)
